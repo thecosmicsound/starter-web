@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pranava Akkaraju	pranava.akkaraju@gmail.com	@thecosmicsound
 
 # THANKS
 
