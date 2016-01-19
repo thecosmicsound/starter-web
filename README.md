@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 
-2016 Pranava Akkaraju.
+2016 Pranava Akkaraju. All rights reserved. 
